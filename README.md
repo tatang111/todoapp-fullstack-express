@@ -10,8 +10,8 @@ A fullstack Todo application with a modern UI and scalable backend. Built with:
 
 ## 🌐 Live Demo
 
-- Frontend: [View on Vercel](https://todoapp-frontend.vercel.app) *(update if needed)*
-- Backend API: [View on Railway](https://todoapp-backend-production.up.railway.app) *(update if needed)*
+- Frontend: [View on Vercel](https://todoapp-frontend.vercel.app) 
+- Backend API: [View on Railway](https://todoapp-backend-production.up.railway.app) 
 
 ---
 
